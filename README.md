@@ -3,4 +3,6 @@
 #####  Fs = 256 Hz
 ##### Presented by: Reza Saadatyar                       
 ##### Reza.Saadatyar@outlook.com
-![Picture1](https://user-images.githubusercontent.com/96347878/160971726-85e9ae9c-fe7e-44d9-8af0-26fc072ff730.png)
+
+
+![Picture1](https://user-images.githubusercontent.com/96347878/160971863-92b192ef-0234-4959-b035-071372b77fbf.png)
