@@ -7,7 +7,8 @@
 ###### Seizure Start Time: 1862 second              
 ###### Seizure End Time: 1963 second
 ##### Presented by: Reza Saadatyar                       
-##### Reza.Saadatyar@outlook.com
+##### Reza.Saadatyar@outlook.com 
+######  Please Run Code Main.m, the Software will run automatically and there is no need to run others code
 
 
 ![Picture1](https://user-images.githubusercontent.com/96347878/160971863-92b192ef-0234-4959-b035-071372b77fbf.png)
