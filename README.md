@@ -11,3 +11,9 @@
 
 
 ![Picture1](https://user-images.githubusercontent.com/96347878/160971863-92b192ef-0234-4959-b035-071372b77fbf.png)
+
+![Schematic for detecting epileptic seizures](https://user-images.githubusercontent.com/96347878/160972670-d31e15bc-add1-435d-a1af-50d37eff39cb.JPG)
+
+![Discrete wavelet transform of EEG signal](https://user-images.githubusercontent.com/96347878/160980486-df948da1-b249-412f-b0da-049eed0afc86.png)
+
+![Classiﬁcation accuracy](https://user-images.githubusercontent.com/96347878/160982476-522c8d2c-0202-4de6-8d2a-cec690acf4af.PNG)
