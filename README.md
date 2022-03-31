@@ -1,6 +1,11 @@
 # Wavelet-epileptic-seizure-EEG-
 ##### This repository includes useful MATLAB codes for the detection of epileptic seizure in EEG signals using wavelet analysis and machine learning techniques (MLP, SVM, KNN, and Bayesian)
 #####  Fs = 256 Hz
+###### File Name: chb01_26.edf                        
+###### File Start Time: 12:34:22                       
+###### File End Time: 13:13:07                         
+###### Seizure Start Time: 1862 seconds               
+###### Seizure End Time: 1963 seconds 
 ##### Presented by: Reza Saadatyar                       
 ##### Reza.Saadatyar@outlook.com
 
