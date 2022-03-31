@@ -4,8 +4,8 @@
 ###### File Name: chb01_26.edf                        
 ###### File Start Time: 12:34:22                       
 ###### File End Time: 13:13:07                         
-###### Seizure Start Time: 1862 seconds               
-###### Seizure End Time: 1963 seconds 
+###### Seizure Start Time: 1862 second              
+###### Seizure End Time: 1963 second
 ##### Presented by: Reza Saadatyar                       
 ##### Reza.Saadatyar@outlook.com
 
